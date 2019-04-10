@@ -8,4 +8,7 @@ Member:
 2. Nguyen Minh Dung - 15520138
 3. Trinh Hoang Ngoc - 15520556
 
+![alt text](https://raw.githubusercontent.com/nguyendu392/AI_KingChess/blob/master/demo.png
+
+
 
